@@ -64,5 +64,5 @@ The results are saved in the ```results.dat``` file. Each row contains:
 - The PRECISION and other constants can be adjusted in the source code for finer control of the simulation.
   - Smaller precision values may improve accuracy but increase runtime.
 # License
-This project is open-source. Use, modify, and distribute freely.
+This project is open-source. Use, modify, and distribute freely but please do not forget to cite.
 
